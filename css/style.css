@@ -1,6 +1,6 @@
 @charset "utf-8"
 
 * {margin: 0; padding: 0; box-sizing: border-box;}
-li {display: none;}
-a {text-decoration: none;}
+li {text-decoration: none;}
+a {color: #000;}
 
